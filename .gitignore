@@ -1,5 +1,11 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+.idea/misc.xml
+.idea/modules.xml
+.idea/scheduled-bod.iml
+.idea/workspace.xml
+.python-version__pycache__/
+.python-version
+
 *.py[cod]
 *$py.class
 
